@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Parcel cache
+.parcel-cache/
+.cache/
+
+# OS-specific
+.DS_Store
+
+# Environment files
+.env
